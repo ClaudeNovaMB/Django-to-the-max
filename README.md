@@ -1,8 +1,6 @@
 # Django-to-the-max
 
-This repository is dedicated to the creation of websites for financial code.
-
-It builds from projects unrealted to finance.
+This repository is the collection of practice projects for the eventual result to have a financial analytics Website. In python!
 
 Project 1 (base) - Create 2 html pages (Home & About), routing url patterns (project and app levels) and test for status code 200 for both pages.
 
