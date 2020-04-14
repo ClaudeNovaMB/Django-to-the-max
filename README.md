@@ -34,8 +34,8 @@ This repository is the collection of practice projects for the eventual result t
   
   - - - -
 
-Practice makes money!
-Thanks Django!
-Python Rocks!
+Practice makes money! :muscle:
+Thanks Django! :pray:
+Python Rocks! :bow:
 
 
