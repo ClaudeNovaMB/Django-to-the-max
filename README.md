@@ -28,6 +28,8 @@ Project 3 (Blog app)
   Tests - String Representation, Content, List View, Detail View, Create View, Update View, Delete View
   
 Project 4 (Continuation of Blog app)
+  Project 3 plus
+  
   
   
   
