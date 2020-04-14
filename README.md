@@ -2,7 +2,7 @@
 
 This repository is the collection of practice projects for the eventual result to have a financial analytics Website. In python!
 
-Project 1 (base) 
+Project 1 (base)\n 
   Create 2 html pages (Home & About) 
   Routing url patterns (project and app levels) 
   Test for status code 200 for both pages.
