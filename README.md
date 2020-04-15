@@ -23,12 +23,21 @@ This repository is the collection of practice projects for the eventual result t
   Register a superuser \
   Post messages via admin center \
   Modeling for posts per author (many to one basis) \
-  Routing urls patterns (Project and app levels) \
+  Routing url patterns (Project and app levels) \
   Forms & Views - Secured with csrf tokens and POST method, class based views, reversed urls for smooth UI \
   Tests - String Representation, Content, List View, Detail View, Create View, Update View, Delete View 
   
 ### Project 4 (Continuation of Blog app) ### 
   Project 3 plus \
+  Page - Signup \
+  New app 'accounts' for signup \
+  Form for signup \
+  Routing url patterns \
+  Logic for create, edit, delete blog posts for logged in users only
+  
+  
+  
+  
   
   
   
