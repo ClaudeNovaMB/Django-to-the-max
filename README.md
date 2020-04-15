@@ -42,6 +42,7 @@ This repository is the collection of practice projects for the eventual result t
   
   
   - - - -
+Utilities: Chrome Browser, Anaconda Prompt, ATOM text editor, Pipenv
 
 Practice makes money! :muscle:
 Thanks Django! :pray:
