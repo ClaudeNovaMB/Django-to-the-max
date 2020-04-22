@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Maximum Effort Blog</title>
+    <link href="{% static 'css/base.css' %}" rel="stylesheet">
+
+
+  </head>
+  <body>
+    <header>
+      <div class="nav-left">
+        <h1><a href="{% url 'home' %}">Maximum Effort Blog</a></h1>
+      </div>
+      <div class="logs">
+        {% if user.is_authenticated %}
+          <p>Hi {{user.username}}!</p>
+          <a href="{% url 'post_new' %}">Add New Blog Post</a>
+          |
+          <a href="{% url 'logout' %}">Log Out</a>
+        {% else %}
+
+          <a href="{% url 'login' %}">Log In</a>
+          |
+          <a href="{% url 'signup' %}">Signup</a>
+          <p>Not logged in.</p>
+        {% endif %}
+      </div>
+
+    </header>
+
+    <div>
+      {% block content %}
+
+      {% endblock content %}
+
+    </div>
+
+  </body>
+</html>
