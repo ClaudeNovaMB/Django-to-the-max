@@ -34,9 +34,15 @@ This repository is the collection of practice projects for the eventual result t
   Form for signup \
   Routing url patterns \
   Logic for create, edit, delete blog posts for logged in users only
-  
-  
-  
+
+### Project 5 (Financial site) ### 
+  All the above \
+  MySQL \
+  Connecting to external API \ 
+  Collecting time series data \
+  Charting data \
+  Financial code (tools) testing \
+  Toying with the idea of API endpoints (Django rest framework)
   
   
   
